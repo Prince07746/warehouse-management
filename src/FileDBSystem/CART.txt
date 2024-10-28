@@ -1,0 +1,1 @@
+93ae327f,user1,2,TABLET,300.00,Samsung,Galaxy Tab,A versatile tablet for all your needs,10.5,128GB,450.00

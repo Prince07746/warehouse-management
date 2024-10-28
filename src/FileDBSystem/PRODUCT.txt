@@ -1,0 +1,2 @@
+1993f94b,NOTEBOOK,900.00,Dell,XPS 13,Compact and powerful laptop,13.3,512GB,1300,60
+93ae327f,TABLET,300.00,Samsung,Galaxy Tab,A versatile tablet for all your needs,10.5,128GB,450.00,50
