@@ -3,6 +3,10 @@ This Java-based application provides an interface to manage a warehouse system. 
 
 ---
 
+![image](https://github.com/user-attachments/assets/bf4690ec-8821-402c-bf0c-c4cd7ec382a9)
+
+
+
 ### Modules and Key Files
 
 1. **Main.java**
